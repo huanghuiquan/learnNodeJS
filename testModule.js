@@ -8,3 +8,4 @@ var moduleAnother = require('./module');
 moduleAnother.setName("huanghuiquan");
 console.log(moduleAnother.getName());
 console.log(module.getName());
+
